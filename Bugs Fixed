@@ -30,3 +30,4 @@ MC-189910 - "Back to server list" improperly capitalized
 MC-189918 - Multiplayer warning uses "Mojang" instead of "Mojang Studios"
 MC-189946 - "Now playing" music disc text improperly capitalized
 MC-190077 - "Game paused" improperly capitalized
+MC-190108 - Hardcore Mode game over screen has inconsistent capitalization
