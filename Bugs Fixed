@@ -12,22 +12,7 @@ MC-187380 - Incorrect grammar in en_us translation of pack.dropConfirm
 MC-187544 - Cover Me With Diamonds Improperly Capitalized
 MC-188389 - Several minor errors in datapackFailure.title
 MC-188595 - "gamemode" string in F3 + N description is inconsistent with "game mode" string in F3 + F4 description
-MC-189079 - "Take me back" is improperly capitalized
-MC-189080 - "Continue without support" is improperly capitalized
-MC-189133 - Jigsaw block has inconsistent capitalization
-MC-189149 - "World updates" title in Game Rules screen is improperly capitalized
-MC-189155 - Armor and Weapon tooltips are improperly capitalized
 MC-189180 - Original Fullscreen Resolution slider position is always "Current" even when it is not the current resolution
-MC-189191 - "Optimize World" screen has lowercase "w" again
-MC-189194 - "You died!" death screen text is improperly capitalized
-MC-189195 - "Title screen" button text on death screen is improperly capitalized
 MC-189261 - Various Realms buttons and texts are incorrectly capitalized
-MC-189526 - "Showing all" and "Showing --able" in recipe book improperly capitalized
-MC-189532 - Structure Block has inconsistent capitalization
-MC-189533 - "Right Click for more" in recipe book inconsistently capitalized
-MC-189536 - "Press Left Shift to dismount" improperly capitalized
-MC-189910 - "Back to server list" improperly capitalized
 MC-189918 - Multiplayer warning uses "Mojang" instead of "Mojang Studios"
-MC-189946 - "Now playing" music disc text improperly capitalized
-MC-190077 - "Game paused" improperly capitalized
-MC-190108 - Hardcore Mode game over screen has inconsistent capitalization
+MC-190102 - Some UI strings are not consistently capitalized
