@@ -5,6 +5,7 @@ MC-167375 - Baby turtle subtitles are grammatically incorrect
 MC-172305 - Command /clear is always plural
 MC-177133 - Cancelled isn't spelled the American way in EN_US
 MC-181204 - doDaylightCycle button slightly incorrectly labeled
+MC-185379 - Baby polar bear subtitle does not explicitly mention it comes from a baby polar bear
 MC-187112 - Extra space in "Keep Jigsaws" button in jigsaw block
 MC-187344 - Fast graphics tooltip has incorrect 'tree-leaves' spelling
 MC-187379 - Text for pack.incompatible.confirm.new makes no sense
