@@ -17,3 +17,4 @@ MC-189180 - Original Fullscreen Resolution slider position is always "Current" e
 MC-189261 - Various Realms buttons and texts are incorrectly capitalized
 MC-189918 - Multiplayer warning uses "Mojang" instead of "Mojang Studios"
 MC-190102 - Some UI strings are not consistently capitalized
+MC-190146 - Game mode descriptions are grammatically incorrect/inconsistent
