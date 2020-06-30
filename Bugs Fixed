@@ -5,6 +5,7 @@ MC-167375 - Baby turtle subtitles are grammatically incorrect
 MC-172305 - Command /clear is always plural
 MC-177133 - Cancelled isn't spelled the American way in EN_US
 MC-177522 - Wolf barking and whining sounds are subtitled as pants
+MC-179219 - Names inconsistent for "Charge" banner patterns
 MC-181204 - doDaylightCycle button slightly incorrectly labeled
 MC-185379 - Baby polar bear subtitle does not explicitly mention it comes from a baby polar bear
 MC-187112 - Extra space in "Keep Jigsaws" button in jigsaw block
@@ -13,6 +14,7 @@ MC-187379 - Text for pack.incompatible.confirm.new makes no sense
 MC-187380 - Incorrect grammar in en_us translation of pack.dropConfirm
 MC-187544 - Cover Me With Diamonds Improperly Capitalized
 MC-188389 - Several minor errors in datapackFailure.title
+MC-188390 - Comma splices in four strings
 MC-188595 - "gamemode" string in F3 + N description is inconsistent with "game mode" string in F3 + F4 description
 MC-188621 - Mojang "Production Manager" credit is indented further than other credits
 MC-189180 - Original Fullscreen Resolution slider position is always "Current" even when it is not the current resolution
