@@ -366,7 +366,7 @@
 §7Game Director
 §f          Henrik Pettersson
 
-§7Assistant Producers
+§7Assistant Producer
 §f          Warren Loo
 
 §7Game Developers
