@@ -25,4 +25,11 @@ MC-190146 - Game mode descriptions are grammatically incorrect/inconsistent
 MC-190288 - Fabulous and Fancy graphics tool tips have missing commas
 MC-190952 - Apostrophe in "Developers of Mo' Creatures" heading is inconsistent with other apostrophes in credits
 MC-190953 - "John Olarte (DrZhark)" name is inconsistent with other nicknamed developers in credits
+MC-192994 - "Assistant Producers" incorrectly pluralized in Mojang Alumni
+MC-193090 - "Lead User Experience Developers" in the credits is incorrectly pluralized
+MC-193091 - "Chief Executive Officers" in the credits is incorrectly pluralized
+MC-193092 - "Project Directors" in the credits is incorrectly pluralized
+MC-193093 - "Creative Communications Assistant" in the credits needs to be pluralized
+MC-193094 - "Project Managers" in the credits is incorrectly pluralized
+MC-193095 - "Associate Producers" in the credits is incorrectly pluralized
 MC-193616 - End Poem uses "kilometres" in en_us
