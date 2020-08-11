@@ -1,4 +1,3 @@
-MC-116857 - Advancement descriptions use unnecessary capitalization on generic resource names
 MC-128972 - Inconsistent hover text for selector arguments
 MC-141185 - Incorrect server delete message
 MC-167375 - Baby turtle subtitles are grammatically incorrect
@@ -6,23 +5,11 @@ MC-172305 - Command /clear is always plural
 MC-177133 - Cancelled isn't spelled the American way in EN_US
 MC-177522 - Wolf barking and whining sounds are subtitled as pants
 MC-179219 - Names inconsistent for "Charge" banner patterns
-MC-181204 - doDaylightCycle button slightly incorrectly labeled
 MC-185379 - Baby polar bear subtitle does not explicitly mention it comes from a baby polar bear
-MC-187112 - Extra space in "Keep Jigsaws" button in jigsaw block
-MC-187344 - Fast graphics tooltip has incorrect 'tree-leaves' spelling
-MC-187379 - Text for pack.incompatible.confirm.new makes no sense
-MC-187380 - Incorrect grammar in en_us translation of pack.dropConfirm
 MC-187544 - Cover Me With Diamonds Improperly Capitalized
-MC-188389 - Several minor errors in datapackFailure.title
-MC-188390 - Comma splices in four strings
 MC-188595 - "gamemode" string in F3 + N description is inconsistent with "game mode" string in F3 + F4 description
-MC-188621 - Mojang "Production Manager" credit is indented further than other credits
 MC-189180 - Original Fullscreen Resolution slider position is always "Current" even when it is not the current resolution
-MC-189261 - Various Realms buttons and texts are incorrectly capitalized
-MC-189918 - Multiplayer warning uses "Mojang" instead of "Mojang Studios"
-MC-190102 - Some UI strings are not consistently capitalized
 MC-190146 - Game mode descriptions are grammatically incorrect/inconsistent
-MC-190288 - Fabulous and Fancy graphics tool tips have missing commas
 MC-190952 - Apostrophe in "Developers of Mo' Creatures" heading is inconsistent with other apostrophes in credits
 MC-190953 - "John Olarte (DrZhark)" name is inconsistent with other nicknamed developers in credits
 MC-192994 - "Assistant Producers" incorrectly pluralized in Mojang Alumni
@@ -33,3 +20,10 @@ MC-193093 - "Creative Communications Assistant" in the credits needs to be plura
 MC-193094 - "Project Managers" in the credits is incorrectly pluralized
 MC-193095 - "Associate Producers" in the credits is incorrectly pluralized
 MC-193616 - End Poem uses "kilometres" in en_us
+MC-195467 - Missing death message "death.fell.accident.water" and its localization
+MC-195780 - "Data mode" and "Load mode" aren't capitalized while "Save Mode" and "Corner Mode" are
+MC-195781 - "Include entities" in the structure block interface is still not capitalized
+MC-195825 - "datapacks" string is inconsistent with "data pack" string in "datapackFailure.title" text	
+MC-195827 - "datapackFailure.title" line in "en_us.json" file has double spaces between the translation string and the equivalent text
+MC-195836 - Some subtitles are not in the correct tense/format
+MC-196425 - "Off" is not completely capitalized for the Distortion Effects and FOV Effects sliders, which is inconsistent with other sliders
