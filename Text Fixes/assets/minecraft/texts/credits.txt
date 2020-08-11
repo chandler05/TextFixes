@@ -116,7 +116,7 @@
 §f          Lily Ekman
 §f          Oscar Nilsson
 
-§7Lead User Experience Developers
+§7Lead User Experience Developer
 §f          Paulo Ragonha
 
 §7User Experience Developers
@@ -262,10 +262,10 @@
 §f          Sebastian Falk
 §f          Åsa Skogström
 
-§7Associate Producers
+§7Associate Producer
 §f          Marc Watson
 
-§7Project Managers
+§7Project Manager
 §f          Isabella Balk
 
 §7Director of Creative Communications
@@ -274,7 +274,7 @@
 §7Head of Marketing Communications
 §f          Thomas Wiborgh
 
-§7Creative Communications Assistant
+§7Creative Communications Assistants
 §f          Per Landin
 §f          Tom Stone
 
@@ -348,7 +348,7 @@
 [C]§eMojang Alumni
 [C]§f===========
 
-§7Chief Executive Officers
+§7Chief Executive Officer
 §f          Carl Manneh
 
 §7Chief Finance Officer
@@ -357,7 +357,7 @@
 §7Chief Technology Officer
 §f          Rikard Herlitz
 
-§7Project Directors
+§7Project Director
 §f          Jakob Porsér
 
 §7Production Director
