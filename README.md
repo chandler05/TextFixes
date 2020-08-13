@@ -1,4 +1,4 @@
 # TEXT FIXES!
 
 
-# We have a discord server now! https://discord.gg/TdsMcW
+# We have a discord server now! https://discord.gg/CUcfYFP
